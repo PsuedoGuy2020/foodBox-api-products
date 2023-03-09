@@ -1,82 +1,82 @@
 [
     {
-        "_id": "60c67bdff5ee510015f3dda8",
+        "_id": "bojlymq2sfl4j3rwu725xr9dnc",
         "name": "Havana special",
         "price": 599,
         "size": "Small",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798224663-303286145.png",
-        "createdAt": "2021-06-13T21:42:55.573Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67bc0f5ee510015f3dda7",
+        "_id": "3e751k3hibqf0femsca68p0pzy",
         "name": "Chicken premier",
         "price": 699,
         "size": "Medium",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798368145-612682611.png",
-        "createdAt": "2021-06-13T21:42:24.070Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67ba9f5ee510015f3dda6",
+        "_id": "zkw7mqa5qzpvamz4d2si5mbggb",
         "name": "Double peperoni",
         "price": 399,
         "size": "Small",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798224663-303286145.png",
-        "createdAt": "2021-06-13T21:42:01.515Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b95f5ee510015f3dda5",
+        "_id": "9qz4dz0vvuh2h9qwptte0o9nrr",
         "name": "Mushroom",
         "price": 499,
         "size": "Small",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1623615210523-833930790.png",
-        "createdAt": "2021-06-13T21:41:41.640Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b7ef5ee510015f3dda4",
+        "_id": "8oacgj9jjgbd0bjip1w9pv63ix",
         "name": "Mix BBQ",
         "price": 799,
         "size": "Large",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798169571-671551234.png",
-        "createdAt": "2021-06-13T21:41:18.956Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b6af5ee510015f3dda3",
+        "_id": "5rf9wrd5wrb6fge9xnhl1mu95u",
         "name": "Carbonara",
         "price": 999,
         "size": "Large",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798169571-671551234.png",
-        "createdAt": "2021-06-13T21:40:58.192Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b5af5ee510015f3dda2",
+        "_id": "1u4y0t7eoz0m4d0p0drf4sdq70",
         "name": "Margarita",
         "price": 599,
         "size": "Large",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798003389-788648576.png",
-        "createdAt": "2021-06-13T21:40:42.881Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b47f5ee510015f3dda1",
+        "_id": "7b9d6i7rmn8m0o8zxby5h7lcv8",
         "name": "Chicken mushroom",
         "price": 899,
         "size": "Small",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798003389-788648576.png",
-        "createdAt": "2021-06-13T21:40:23.941Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67b32f5ee510015f3dda0",
+        "_id": "3obanzyea11lg649ibtahhealv",
         "name": "Four cheese",
         "price": 1100,
         "size": "Medium",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798169571-671551234.png",
-        "createdAt": "2021-06-13T21:40:02.211Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     },
     {
-        "_id": "60c67acaf5ee510015f3dd9f",
+        "_id": "6suk64kkxbzqwq538bxy5rg5ql",
         "name": "Caramel pineapple",
         "price": 899,
         "size": "Medium",
         "image": "https://github.com/PsuedoGuy2020/foodBox-products-api/blob/main/images/1619798003389-788648576.png",
-        "createdAt": "2021-06-13T21:38:18.489Z"
+        "createdAt": "2023-03-09T20:15:28.656Z"
     }
 ]
